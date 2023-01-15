@@ -1,0 +1,82 @@
+baseurl: "https://blog.pwning.me"
+languageCode: ko-kr
+theme: hugo-theme-stack
+paginate: 8
+title: c2w2m2
+
+DefaultContentLanguage: ko
+hasCJKLanguage: false
+
+permalinks:
+  post: /p/:slug/
+  page: /:slug/
+
+params:
+  mainSections:
+    - post
+  rssFullContent: true
+  dateFormat:
+    published: Jan 02, 2006
+    lastUpdated: Jan 02, 2006 15:04 MST
+  sidebar:
+    emoji: 🔥
+    subtitle: Juchang Lee
+  article:
+    math: false
+    toc: true
+
+widgets:
+  homepage:
+    - type: search
+    - type: archives
+      params:
+        limit: 5
+    - type: categories
+      params:
+        limit: 10
+    - type: tag-cloud
+      params:
+        limit: 10
+  page:
+    - type: toc
+
+menu:
+  main: []
+  social:
+    - identifier: facebook
+      name: facebook
+      url: https://fb.com/c2w2m2
+      params:
+        icon: brand-facebook
+    - identifier: twitter
+      name: twitter
+      url: https://twitter.com/c2w2m2
+      params:
+        icon: brand-twitter
+    - identifier: github
+      name: github
+      url: https://github.com/juckchang
+      params:
+        icon: brand-github
+    - identifier: email
+      name: email
+      url: mailto:juchang0308@gmail.com
+      params:
+        icon: email
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: false
+  tableOfContents:
+    endLevel: 4
+    ordered: true
+    startLevel: 2
+  highlight:
+    noClasses: false
+    codeFences: true
+    guessSyntax: true
+    lineNoStart: 1
+    lineNos: true
+    lineNumbersInTable: true
+    tabWidth: 2
