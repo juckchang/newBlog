@@ -23,6 +23,8 @@ menu:
         params:
             icon: user
 ---
+[Blog](https://blog.pwning.me/) [Facebook](https://fb.com/c2w2m2) [Twitter](https://twitter.com/c2w2m2) [Email](mailto:juchang0308@gmail.com)
+
 ### ## Name
 `Juchang Lee` (a.k.a `c2w2m2`)
 ### ## Teams
@@ -37,6 +39,9 @@ Graduated [Best of Best](https://www.kitribob.kr/) 7th in 2018
 
 Graduated [Korea Digital Media Highschool](http://dimigo.hs.kr/) in 2017.03 ~ 2020.02
 
+### ## Career
+
+Security Researcher on [ENKI](https://enki.co.kr/) 2020.03 ~ 2022.12
 
 ### ## Awards
 #### ### 2022
@@ -45,6 +50,8 @@ Graduated [Korea Digital Media Highschool](http://dimigo.hs.kr/) in 2017.03 ~ 20
 🥉 `DEFCON 30 CTF` 3rd ( Team. StarBugs) & 🥇 `DEFCON 30 LiveCTF` 1st
 
 🥇 `Hayyim CTF` 1st ( Team. 하임이 흑화하면? 초코하임 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ ) 
+
+🏅 `SECCON CTF` finalist ( Team. ChaShu )
 
 #### ### 2021
 🥇 `Just CTF` 1st ( Team. AlPray ) 
@@ -80,3 +87,6 @@ Graduated [Korea Digital Media Highschool](http://dimigo.hs.kr/) in 2017.03 ~ 20
 #### ### 2020
 - 사이버공격방어대회(CCE)
 - 금융권 사이버 침해위협분석 대회(FIESTA) 
+
+
+
