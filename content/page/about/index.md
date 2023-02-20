@@ -47,7 +47,9 @@ Security Researcher on [ENKI](https://enki.co.kr/) 2020.03 ~ 2022.12
 #### ### 2022
 🥈 `BlackHatMea CTF` 2rd ( Team. \{\{7*7\}\} )
 
-🥉 `DEFCON 30 CTF` 3rd ( Team. StarBugs) & 🥇 `DEFCON 30 LiveCTF` 1st
+🥉 `DEFCON 30 CTF` 3rd ( Team. StarBugs ) & 🥇 `DEFCON 30 LiveCTF` 1st
+
+🥉 `lineCTF` 3rd ( Team. donkey ) 
 
 🥇 `Hayyim CTF` 1st ( Team. 하임이 흑화하면? 초코하임 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ ) 
 
