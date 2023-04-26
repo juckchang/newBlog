@@ -39,9 +39,6 @@ Graduated [Best of Best](https://www.kitribob.kr/) 7th in 2018
 
 Graduated [Korea Digital Media Highschool](http://dimigo.hs.kr/) in 2017.03 ~ 2020.02
 
-### ## Career
-
-Security Researcher on [ENKI](https://enki.co.kr/) 2020.03 ~ 2022.12
 
 ### ## Awards
 #### ### 2022
@@ -76,19 +73,5 @@ Security Researcher on [ENKI](https://enki.co.kr/) 2020.03 ~ 2022.12
 🏅 `DefCON 28` finalist ( Team. Cykor )
 
 ...
-
-### ## Author
-#### ### 2022
-- 사이버공격방어대회(CCE)
-- Codegate
-
-#### ### 2021
-- 사이버공격방어대회(CCE)
-- 금융권 사이버 침해위협분석 대회(FIESTA) 
-
-#### ### 2020
-- 사이버공격방어대회(CCE)
-- 금융권 사이버 침해위협분석 대회(FIESTA) 
-
 
 
